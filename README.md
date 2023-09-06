@@ -1,6 +1,7 @@
 # downstream-fdt <br/>
 
 fdt found on sm7150 devices: <br/>
+Samsung A71 PROJECT Rev0.6 (SM-A715F) <br/>
 Xiaomi POCO X3 / Xiaomi POCO X3 NFC (karna/surya) <br/>
 Xiaomi Redmi Note 10 Pro (sweet) <br/>
 Xiaomi Redmi Note 12 Pro 4G (sweet_k6a) <br/>
