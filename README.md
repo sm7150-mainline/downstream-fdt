@@ -9,4 +9,5 @@ Xiaomi Redmi Note 12 Pro 4G (sweet_k6a) <br/>
 Xiaomi Mi 9T / Xiaomi Redmi K20 (davinci) <br/>
 Xiaomi Mi Note 10 (Xiaomi Mi CC9 Pro) / Xiaomi Mi Note 10 Pro (Xiaomi Mi CC9 Pro Premium Edition) (tucana) <br/>
 Xiaomi Mi Note 10 Lite (toco) <br/>
+Xiaomi Mi Note 11 Lite (courbet) <br/>
 Google Pixel 4a (sunfish) <br/>
